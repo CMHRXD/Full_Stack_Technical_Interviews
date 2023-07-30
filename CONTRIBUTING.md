@@ -20,9 +20,7 @@ Getting Started
 
     Clone the forked repository to your local development environment.
 
-bash
-
-git clone [https://github.com/your-username/full_stack_interview_exercise.git](https://github.com/CMHRXD/Full_Stack_Technical_Interviews.git)
+    git clone [https://github.com/your-username/full_stack_interview_exercise.git](https://github.com/CMHRXD/Full_Stack_Technical_Interviews.git)
 
     Create a new branch for your contribution.
 
